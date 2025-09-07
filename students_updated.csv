@@ -1,0 +1,11 @@
+ID,Name,Age,Department,Marks,Result
+1,John,20,Mechanical,85,Pass
+2,Sarah,22,Civil,90,Pass
+3,David,21,Electrical,75,Pass
+4,Linda,23,Mechanical,88,Pass
+5,James,22,Civil,60,Fail
+6,Alice,21,Electrical,92,Pass
+7,Bob,20,Mechanical,55,Fail
+8,Eve,23,Civil,78,Pass
+9,Tom,22,Electrical,80,Pass
+10,Lily,21,Mechanical,95,Pass
